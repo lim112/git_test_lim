@@ -1,0 +1,7 @@
+git test
+<<<<<<< HEAD
+123123
+=======
+123123
+branch a를 생성함
+>>>>>>> 4d7cf3d (first commit)
